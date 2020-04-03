@@ -1,4 +1,4 @@
-# Getting To Know Leadecide 
+# Getting To Know "Leadwise" 
 
 This project, in the principle of "leadwise" (V3.0), is developed by the AYCH Consultant. It is to help label leadership competencies for nurturing a "leadwise" team in the organizations and business entities. The program is a synergy of our team and some inheritaged reference resources from Mozilla's initiatives.
 We do our best to this project with a hope to get you updated. These refreshments are not the rules or laws, rather than that they are advices for better leadership in the digital era. 
