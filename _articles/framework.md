@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Open Leadership Framework"
+title: The "leadwise" principle (V3.0)
 toc:
-- "Hello & welcome!"
-- "Who and what is this framework for?"
+- "Welcome!"
+- "Who and what is the "leadwise" for?"
 - "What is open?"
-- "What is open leadership?"
-- "Open leadership is not..."
-- "How is open leadership different?"
+- "What is for leadership?"
+- "What "leadwise" is not..."
+- "How is "leadwise" different?"
 - "How do individuals benefit from open leadership?"
 - "How does open leadership benefit the user?"
 - "The Open Leadership Framework"
