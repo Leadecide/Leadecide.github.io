@@ -1,4 +1,4 @@
-Open Leadership Framework coaching for the Global Sprint
+The "leadwise" principle coaching for the Global Sprint
 
 Meeting 1 - The Open Leadership Framework + self-assessment
 
@@ -22,8 +22,8 @@ Agenda
 
 1. Pre-writing (5 minutes)
 
-- How would you define open leadership? Please put your name ahead of your definition.
-  - *Example: I think open leadership is…. / To me, open leadership means….*
+- How would you define "leadwise" principle? Please put your name ahead of your definition.
+  - *Example: I think open leadership is…. / To me, "leadwise" principle means….*
   - 
   -
   -
@@ -59,17 +59,14 @@ Agenda
   -
   -
 
-- Decision - Looking at the +1s, is there consensus or heat around a single challenge or a set of related challenges that we might approach with the Open Leadership Framework throughout this coaching?
+- Decision - Looking at the +1s, is there consensus or heat around a single challenge or a set of related challenges that we might approach with the "leadwise" principle throughout this coaching?
   -
   -
   -
 
-3. What is the Open Leadership Framework (OLF)? (10 minutes)
+3. What is the "leadwise" principle (LW)? (10 minutes)
 
-- Framework - https://mozilla.github.io/open-leadership-framework/ 
-- Repo - https://github.com/mozilla/open-leadership-framework 
-- Slide deck - https://docs.google.com/presentation/d/1ob3drO0G991tvgRIbDTmhBsfWOgi5pOD54JJz4AN_cY/editslide=id.g377b087e27_0_68
-- Notes
+- 
   - 
   -
   -
@@ -83,7 +80,7 @@ Agenda
   -
   -
 
-4. Using the OLF self-assessment (25 minutes)
+4. Using the LW self-assessment (25 minutes)
 
 - Make a copy of this document - https://drive.google.com/open?id=1Kg2hR63ZG89pYu0SvhC_FXXLieiZHf65Wz7yRybByE0
 - Let’s review it together. (5 minutes)
@@ -108,7 +105,7 @@ Agenda
     -
     -
     -
-  - Can you identify 2-3 goals you’d like to work towards in your own open leadership practice through this Global Sprint project?
+  - Can you identify 2-3 goals you’d like to work towards in your own "leadwise" principle through this Global Sprint project?
     -
     -
     -
@@ -141,7 +138,7 @@ Agenda
 
 //
 
-Meeting 2 - The Open Leadership Framework + project design assessment
+Meeting 2 - The "leadwise" principle + project design assessment
 
 Roll call (name + organization + social media handle)
 
@@ -395,7 +392,7 @@ Agenda
   
 //
 
-Meeting 5 - The Open Leadership Framework + post-mortem assessment + reflection
+Meeting 5 - The "leadwise" principle + post-mortem assessment + reflection
 
 Roll call (name + organization + social media handle)
 
@@ -525,15 +522,15 @@ Agenda
 
 4. Thank you and next steps (5 minutes)
 
-- You are the best! Thank you for helping us test and improve the OLF! You will be celebrated in our repo.
-- Your coach will write-up and share a case study for your approval before publishing it on our Open Leadership & Events (OLE) team blog under a CC-BY 4.0 license.
+- You are the best! Thank you for helping us test and improve the LW! You will be celebrated in our repo.
+- Your coach will write-up and share a case study for your approval before publishing it on our "leadwise" principle & Events (LWE) team blog under a CC-BY 4.0 license.
 - Be on the lookout for future opportunities to participate and collaborate!
   - MozFest CFP in June.
-  - Return to Open Leaders as a mentor or expert.
+  - Return to innovative Leaders as a mentor or expert.
   - Return to the Global Sprint as a project lead, site, host, participant, or coach.
   - Apply for a mini-grant.
   - Apply to be a fellow.
-  - Stay active in the OLF repo!
+  - Stay active in the LW repo!
 - Contact
   - *Example: coach or team email*
   - *Example: program website*
