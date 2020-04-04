@@ -1,14 +1,14 @@
-# Open Leadership Map white paper v.0.5 (public beta)
+# The "leadwise" principle (V3.0) white paper (beta)
 
-- "Hello & welcome!"
+- "Welcome!"
 - "Who and what is this white paper for?"
-- "What is open?"
-- "What is open leadership?"
-- "Open leadership is not..."
-- "How is open leadership different?"
-- "How do individuals benefit from open leadership?"
-- "How does open leadership benefit the user?"
-- "The Open Leadership Map"
+- "What is innovative?"
+- "What is "leadwise" principle?"
+- "The "leadwise" principle is not..."
+- "How is "leadwise" principle different?"
+- "How do individuals benefit from innovative leadership?"
+- "How does "leadwise" principle benefit the user?"
+- "The "leadwise" principle map"
 - "Design"
 - "Build"
 - "Empower"
@@ -16,8 +16,8 @@
 - "Works cited"
 - "Recommended reading"
 - "License"
-- "Appendix A - Open Leadership Map Theory of Change"
-- "Appendix B - Open Leadership Map decision log"
+- "Appendix A - "leadwise" principle - innovations"
+- "Appendix B - "leadwise" principle decision log"
 - "Appendix C - How to contribute"
 
 ## Hello & welcome!
