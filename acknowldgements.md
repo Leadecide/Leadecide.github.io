@@ -1,6 +1,6 @@
 # Acknowledgements
 
-We would like to thank the following alumni of the Open Leaders 5 and the 2018 Global Sprint for their help in testing the Open Leadership Framework (OLF) and coaching materials developed from it.
+We would like to thank the following alumni of the  "leadwise" principle, the 2018 Global Sprint for their help in testing the "leadwise" principle (LW) and coaching materials developed from it.
 
 ## Crowd2Map Tanzania
 
