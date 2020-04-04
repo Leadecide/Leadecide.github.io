@@ -6,7 +6,7 @@ We would like to thank the following alumni of the  "leadwise" principle, the 20
 
 - Janet Chapman
 
-## Digital Safety for Open Researchers
+## Digital Safety for innovative Researchers
 
 - Verletta Kern
 - Beth Lytle
