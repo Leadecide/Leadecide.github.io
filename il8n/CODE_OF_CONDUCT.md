@@ -1,10 +1,12 @@
-# Open Leadership Map Whitepaper Participation Guidelines
+# Community Participation Guidelines
 
-## Code of Conduct
+This repository is governed by AYCH's code of conduct and etiquette guidelines. 
+For more details, please read the
 
-As contributors to the Mozilla Privacy Arcade project, we agree to review and abide by the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+## How to Report
 
-## Participation Guidelines
+
+## Project Specific Etiquette
 
 Moreover, to promote a safe space for all, we agree to:
 
